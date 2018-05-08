@@ -27,3 +27,7 @@ sudo apt-get install net-tools # 安裝 ifconfig 工具
 dpkg -S ping # 查詢 ping
 dpkg -S ifconfig # 查詢 ifconfig
 ```
+
+
+## 其他參考資訊
+http://samchu.logdown.com/posts/288889-docker-fast-with-vagrant-and-construct-development-and-test-environments  
