@@ -1,6 +1,11 @@
 # learn-docker
 
-在 ubuntu 16.04 下使用 vagrant 快速建立 docker 環境.  
+在 ubuntu 下使用 vagrant 快速建立 docker 環境.  
+以下為我的操作環境  
+- ubuntu 16.04  
+- vagrant 2.0.2 (用 `vagrant --version` 查看)  
+- virtualbox 5.2.6 r120293  
+
 在 [Vagrant Cloud](https://app.vagrantup.com/boxes/search?provider=docker) 找到有人建立好的docker, 直接下載來用  
 ```
 mkdir ubuntu-16.04-docker
