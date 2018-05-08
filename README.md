@@ -7,6 +7,7 @@ mkdir ubuntu-16.04-docker
 cd ubuntu-16.04-docker
 vagrant init tknerr/baseimage-ubuntu-16.04 --box-version 1.0.0
 vagrant up --provider docker
+vagrant ssh # 登入進行後續操作
 ```
 
 docker 剛建立為最小安裝, 很多指令都沒有, 安裝一些常用的工具吧！  
