@@ -16,3 +16,18 @@ cd osx-10.11-elcapitan
 vagrant init carbon/osx-elcapitan-10.11 --box-version 1.0.1
 vagrant up # 第一次需要下載很久..., 若失敗只須再次下這個指令
 ```
+
+osx 10.13 
+
+
+### 版本列表  
+OSX 10.5 Leopard  
+OSX 10.6 Snow Leopard  
+OSX 10.7 Lion  
+OSX 10.8 Mountain Lion  
+OSX 10.9 Mavericks  
+OSX 10.10 Yosemite  
+OSX 10.11 El Capitan  
+macOS 10.12 Sierra  
+macOS 10.13 High Sierra  
+參考 https://zh.wikipedia.org/wiki/MacOS  
