@@ -20,6 +20,7 @@ docker 剛建立為最小安裝, 很多指令都沒有, 安裝一些常用的工
 sudo apt-get update
 sudo apt-get install iputils-ping # 安裝 ping 工具
 sudo apt-get install net-tools # 安裝 ifconfig 工具
+sudo apt-get install build-essential # 安裝 編譯 工具
 ```
 
 如何查詢某個指令在 apt-get 的那一個安裝包?  
