@@ -21,6 +21,7 @@ sudo apt-get update
 sudo apt-get install iputils-ping # 安裝 ping 工具
 sudo apt-get install net-tools # 安裝 ifconfig 工具
 sudo apt-get install vim # 文字編輯器
+sudo apt-get install bash bash-completion # 終端
 ```
 
 開發工具類  
